@@ -1,6 +1,6 @@
 ### Introduction
 
-*CODEBREAKER* is [*Mastermind*](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29) implementation for the [*Apple-1*](http://en.wikipedia.org/wiki/Apple_I) computer.
+*CODEBREAKER* is [*Mastermind*](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29) implementation for the [*Apple-1*](http://en.wikipedia.org/wiki/Apple_I) computer (pre-1.0 video demo: <http://youtu.be/Q_ex8GgDBjc>).
 
 *CODEBREAKER* has three levels of difficulty:
 
