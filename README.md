@@ -1,8 +1,8 @@
 ### Introduction
 
-*CODEBREAKER* is a [*Mastermind*](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29) implementation for the [*Apple-1*](http://en.wikipedia.org/wiki/Apple_I) computer (pre-1.0 video demo: <http://youtu.be/Q_ex8GgDBjc>).
+*CODEBREAKER!* is a [*Mastermind*](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29) implementation for the [*Apple-1*](http://en.wikipedia.org/wiki/Apple_I) computer (pre-1.0 video demo: <http://youtu.be/Q_ex8GgDBjc>).
 
-*CODEBREAKER* has three levels of difficulty:
+*CODEBREAKER!* has three levels of difficulty:
 
 | Level  | Slots | Colors | Attempts | Time(s) |
 |--------|-------|--------|----------|---------|
@@ -10,10 +10,10 @@
 | Pro    | 5     | 8      | 12       | inf.    |
 | Master | 5     | 8      | 12       | 60      |
 
-**What sets *CODEBREAKER* apart from all those *other* Apple-1 titles?**
+**What sets *CODEBREAKER!* apart from all those *other* Apple-1 titles?**
 
 * *A true random number generator!*  Using cycle counting while waiting for keystrokes generates a very random number.  No need for seeds and no cheating possible (unless you hack the code :-).
-* *A countdown timer!*  Using the 960 KHz clock of the Apple-1, *CODEBREAKER* can countdown the *Master* level with sub-second accuracy.  If you really want to stress yourself out, play as a *Master*.  ***You've got 60 seconds or you fail!***
+* *A countdown timer!*  Using the 960 KHz clock of the Apple-1, *CODEBREAKER!* can countdown the *Master* level with sub-second accuracy.  If you really want to stress yourself out, play as a *Master*.  ***You've got 60 seconds or you fail!***
 
 
 ### Tested Platforms
@@ -104,7 +104,7 @@ In either case type `280R` to start.
 
 ### Build Notes
 
-*CODEBREAKER* was written in C with a bit of assembly (keyboard input, timer, and 32-bit random number seed generator).  (*CODEBREAKER* may be the *only* Apple-1 title written in C :-).  
+*CODEBREAKER!* was written in C with a bit of assembly (keyboard input, timer, and 32-bit random number seed generator).  (*CODEBREAKER!* may be the *only* Apple-1 title written in C :-).  
 
 #### Prerequisites
 
